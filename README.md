@@ -1,4 +1,4 @@
-```markdown
+
 # seam_take_home Project
 
 This README outlines how to run the seam_take_home application.
