@@ -1,5 +1,3 @@
-Absolutely!  Here's how to express the README instructions in Markdown code format.  Keep in mind that elements like titles and headings are created using the `#` symbol in Markdown.
-
 ```markdown
 # seam_take_home Project
 
